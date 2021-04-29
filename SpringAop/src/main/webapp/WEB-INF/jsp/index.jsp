@@ -5,6 +5,6 @@
     <title>Title</title>
 </head>
 <body>
-home page
+HOME PAGE
 </body>
 </html>
