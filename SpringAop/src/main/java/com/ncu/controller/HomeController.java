@@ -14,7 +14,7 @@ public class HomeController {
 	@RequestMapping("/aop")
 	public String home()
 	{
-		log.info("info message");
+		log.info("Logger implemented");
 		return "index";
 	}
 	
